@@ -1,4 +1,4 @@
-# spring-kafka-example 
+# Spring Kafka Tutorial 
 
 
 ## 1. Import source code into Eclipse
@@ -17,7 +17,7 @@ Open the **SpringKafkaExampleApplicationTests.java**
 
 **Right click -> Run As -> JUnit Test** or use the shortcut: **Alt+Shift+x, t** to start the test
 
-All the source code are described in: [Create Multi-threaded Apache Kafka Consumer](http://howtoprogram.xyz/2016/09/23/spring-kafka-tutorial/)
+All the source code are described in: [Spring Kafka Tutorial](http://howtoprogram.xyz/2016/09/23/spring-kafka-tutorial/)
 ## 4. Related Posts
 
 ###[Getting started with Apache Kafka 0.9](http://howtoprogram.xyz/2016/04/30/getting-started-apache-kafka-0-9)
