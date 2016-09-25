@@ -13,7 +13,7 @@ Click **Finish** button to finish the importing
 ## 2. Run the example
 
 
-Open the **SpringKafkaExampleApplicationTests.java** 
+Open the **SpringKafkaMultipleConsumptionTests.java** 
 
 **Right click -> Run As -> JUnit Test** or use the shortcut: **Alt+Shift+x, t** to start the test
 
