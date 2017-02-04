@@ -17,7 +17,7 @@ Open the **SpringKafkaMultipleConsumptionTests.java**
 
 **Right click -> Run As -> JUnit Test** or use the shortcut: **Alt+Shift+x, t** to start the test
 
-All the source code are described in: [Spring Kafka - Multi-threaded Message Consumption](http://howtoprogram.xyz/2016/09/24/spring-kafka-multi-threaded-message-consumption/)
+All the source code are described in: [Spring Kafka - Multi-threaded Message Consumption](http://howtoprogram.xyz/2016/09/25/spring-kafka-multi-threaded-message-consumption/)
 ## 4. Related Posts
 ### All the source code are described in: [Spring Kafka Tutorial](http://howtoprogram.xyz/2016/09/23/spring-kafka-tutorial/)
 ###[Getting started with Apache Kafka 0.9](http://howtoprogram.xyz/2016/04/30/getting-started-apache-kafka-0-9)
