@@ -13,13 +13,13 @@ Click **Finish** button to finish the importing
 ## 2. Run the example
 
 
-Open the **SpringKafkaMultipleConsumptionTests.java** 
+Open the **SpringKafkaExampleApplicationTests.java** 
 
 **Right click -> Run As -> JUnit Test** or use the shortcut: **Alt+Shift+x, t** to start the test
 
-All the source code are described in: [Spring Kafka - Multi-threaded Message Consumption](http://howtoprogram.xyz/2016/09/25/spring-kafka-multi-threaded-message-consumption/)
+All the source code are described in: [Spring Kafka Tutorial](http://howtoprogram.xyz/2016/09/23/spring-kafka-tutorial/)
 ## 4. Related Posts
-###[Spring Kafka Tutorial](http://howtoprogram.xyz/2016/09/23/spring-kafka-tutorial/)
+
 ###[Getting started with Apache Kafka 0.9](http://howtoprogram.xyz/2016/04/30/getting-started-apache-kafka-0-9)
 ###[Apache Kafka 0.9 Java Client API Example] (http://howtoprogram.xyz/2016/05/02/apache-kafka-0-9-java-client-api-example)
 ###[Create Multi-threaded Apache Kafka Consumer](http://howtoprogram.xyz/2016/05/29/create-multi-threaded-apache-kafka-consumer/)
